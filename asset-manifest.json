@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UNDERWATER-DRONE-DASHBOARD/static/css/main.e6c13ad2.css",
+    "main.js": "/UNDERWATER-DRONE-DASHBOARD/static/js/main.13b52cc0.js",
+    "static/js/453.d7446e4a.chunk.js": "/UNDERWATER-DRONE-DASHBOARD/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/UNDERWATER-DRONE-DASHBOARD/index.html",
+    "main.e6c13ad2.css.map": "/UNDERWATER-DRONE-DASHBOARD/static/css/main.e6c13ad2.css.map",
+    "main.13b52cc0.js.map": "/UNDERWATER-DRONE-DASHBOARD/static/js/main.13b52cc0.js.map",
+    "453.d7446e4a.chunk.js.map": "/UNDERWATER-DRONE-DASHBOARD/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.13b52cc0.js"
+  ]
+}
